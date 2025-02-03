@@ -47,7 +47,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinesh-pr&show_icons=true&theme=dark&title_color=ffffff&text_color=e0e0e0&bg_color=1e1e1e&hide_border=true&locale=en" alt="abhinesh-pr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdevakrishnan&theme=dark" alt="abhinesh-pr" /></p> <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinesh-pr&theme=dark" alt="abhinesh-pr" /></p> <br>
 
 <h3 align="left">✍️ Dev Quote:</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"></p>
