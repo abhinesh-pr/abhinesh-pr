@@ -45,7 +45,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinesh-pr&show_icons=true&theme=dark&title_color=ffffff&text_color=e0e0e0&bg_color=1e1e1e&hide_border=true&locale=en&layout=compact" alt="abhinesh-pr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinesh-pr&show_icons=true&theme=dark&title_color=ffffff&text_color=e0e0e0&bg_color=1e1e1e&hide_border=true&locale=en" alt="abhinesh-pr" /></p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhinesh-pr&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://streak-stats.demolab.com?user=abhinesh-pr&theme=dark&hide_border=true"><img src="https://streak-stats.demolab.com?user=abhinesh-pr&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <h3 align="left">✍️ Dev Quote:</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"></p>
 
