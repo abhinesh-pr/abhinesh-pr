@@ -5,9 +5,9 @@
 
 <h3 align="left">💫 About me:</h3>
 
-- 🚀 What I’m working on: [Deckify](https://github.com/abhinesh-pr/deckify)
+- 🚀 What I’m working on: [Pedals](https://github.com/abhinesh-pr/pedals)
 
-- 👯 I’m looking to collaborate on: [Deckify](https://github.com/abhinesh-pr/deckify)
+- 👯 I’m looking to collaborate on: [Pedals](https://github.com/abhinesh-pr/pedals)
 
 - ✨ What Drives Me: **Craze on IoT and Mobile Applications**
 
